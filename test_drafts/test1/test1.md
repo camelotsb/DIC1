@@ -20,6 +20,7 @@
 ---
 ## Potentiometer
 - For grunt testing.
+
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Electronic-Component-Potentiometer.jpg/330px-Electronic-Component-Potentiometer.jpg)
 ---
 > Other basic requirements: breadboard, jumperwires, etc.
